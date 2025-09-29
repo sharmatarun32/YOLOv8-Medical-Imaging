@@ -1,10 +1,10 @@
-echo streamlit > requirements.txt
-echo pillow >> requirements.txt
-echo ultralytics >> requirements.txt
-echo opencv-python-headless >> requirements.txt
-echo numpy >> requirements.txt
-echo matplotlib >> requirements.txt
-echo torch >> requirements.txt
-echo torchvision >> requirements.txt
-echo torchaudio >> requirements.txt
-echo split-folders >> requirements.txt
+streamlit
+pillow>=10.0.0
+ultralytics
+opencv-python-headless
+numpy
+matplotlib
+torch
+torchvision
+torchaudio
+split-folders
